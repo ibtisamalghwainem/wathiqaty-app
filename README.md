@@ -13,10 +13,9 @@
 
 ## 🎥 العرض التوضيحي
 
-[شاهد الفيديو التوضيحي للمشروع](https://github.com/ibtisamalghwainem/wathiqaty-app/raw/main/assets/wathiqaty_demo.mp4)
-
+[شاهد الفيديو التوضيحي للمشروع](
 ---
-
+https://drive.google.com/file/d/1TEpWfV6xuYH0ijDMpEjuA_G9M9oLwiF_/view?usp=sharing
 
 ## 🛠️ التشغيل محليًا
 
