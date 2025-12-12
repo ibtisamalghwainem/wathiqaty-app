@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "jsx": "react-native",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "target": "esnext",
+    "module": "esnext",
+    "baseUrl": ".",
+    "paths": {
+      "@data/*": [
+        "data/*"
+      ],
+      "@assets/*": [
+        "assets/*"
+      ]
+    },
+    "types": [
+      "react",
+      "react-native",
+      "expo-router"
+    ]
+  },
+  "extends": "expo/tsconfig.base",
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ]
+}
