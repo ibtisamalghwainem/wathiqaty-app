@@ -17,7 +17,9 @@
 
 ## 🎥 Demo video  
 شاهد العرض التوضيحي للمشروع:  
-<video src="وثيقتي الرقمية.mp4" controls width="800"></video>
+## 🎥 العرض التوضيحي
+
+<video src="./wathiqaty_demo.mp4" controls width="800"></video>
 
 ---
 
