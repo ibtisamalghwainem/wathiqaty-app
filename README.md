@@ -12,7 +12,7 @@
 
 ## 🎥 Demo video
 شاهد العرض التوضيحي:
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<video src="وثيقتي_الرقمية.mp4" controls width="800"></video>
 
 ## 🛠️ التشغيل محليًا
 **Install:**
